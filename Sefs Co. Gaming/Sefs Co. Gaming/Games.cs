@@ -65,7 +65,5 @@ namespace Sefs_Co.Gaming
             price = _price;
             restricted = _restricted;
         }
-
-
     }
 }
